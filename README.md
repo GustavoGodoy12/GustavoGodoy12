@@ -1,7 +1,7 @@
 
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">❤️ <br><br> Estudante de Ciência da Computação <strong>empolgado com coisas novas</strong> e usando a criatividade para novos desafios. Hoje, eu sou um programador <strong>nível básico</strong> focado em aprimorar conhecimentos backend e frontend.</p>&nbsp;
+<p align="center">❤️ <br><br> Estudante de <strong>Ciência da Computação</strong> empolgado com coisas novas e usando a criatividade para novos desafios. Hoje, eu sou um programador <strong>nível básico</strong> focado em aprimorar conhecimentos backend e frontend.</p>&nbsp;
  
  &nbsp;
  &nbsp;
